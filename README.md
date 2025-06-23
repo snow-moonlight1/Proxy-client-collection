@@ -16,9 +16,9 @@
 
 ### 旧时代
 
-- [clash_for_windows_pkg](https://github.com/lantongxue/clash_for_windows_pkg)
+- [clash_for_windows_pkg(backup)](https://github.com/lantongxue/clash_for_windows_pkg)
 
-- [Clash for Windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
+- [Clash for Windows Chinese(backup)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
 
 ### 新时代
 
@@ -28,7 +28,7 @@
 
 - [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party)
 
-- [sparkle(fork form Mihomo Party)](https://github.com/xishang0128/sparkle)
+- [sparkle(fork from Mihomo Party)](https://github.com/xishang0128/sparkle)
 
 - [v2rayN](https://github.com/2dust/v2rayN)
 
@@ -42,9 +42,9 @@
 
 ### 旧时代
 
-- [clash_for_windows_pkg](https://github.com/lantongxue/clash_for_windows_pkg)
+- [clash_for_windows_pkg(backup)](https://github.com/lantongxue/clash_for_windows_pkg)
 
-- [ClashX](https://github.com/bannedbook/ClashX)
+- [ClashX(archived)](https://github.com/bannedbook/ClashX)
 
 ### 新时代
 
@@ -54,7 +54,7 @@
 
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
-- [sparkle(fork form Mihomo Party)](https://github.com/xishang0128/sparkle)
+- [sparkle(fork from Mihomo Party)](https://github.com/xishang0128/sparkle)
 
 - [v2rayN](https://github.com/2dust/v2rayN)
 
@@ -64,15 +64,23 @@
 
 - [clash-for-linux](https://github.com/Elegycloud/clash-for-linux-backup)
 
-- [clash_for_windows_pkg](https://github.com/lantongxue/clash_for_windows_pkg)
+- [clash_for_windows_pkg(对的cfw有linux版本)](https://github.com/lantongxue/clash_for_windows_pkg)
 
 ### 新时代
 
-- [sparkle(fork form Mihomo Party)](https://github.com/xishang0128/sparkle)
+- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
+- [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
+
+- [mihomo-party](https://github.com/mihomo-party-org/mihomo-party)
+
+- [sparkle(fork from Mihomo Party)](https://github.com/xishang0128/sparkle)
 
 - [v2rayN](https://github.com/2dust/v2rayN)
 
 - [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
+  
+  
 
 # 安卓
 
