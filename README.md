@@ -1,5 +1,3 @@
-因为每次换新设备都很麻烦要重新找代理软件所以干脆搞个集合
-
 # 全平台(win/mac/lin/android)
 
 如果想获得全平台相对一致的体验可以尝试这些项目
@@ -79,8 +77,6 @@
 - [v2rayN](https://github.com/2dust/v2rayN)
 
 - [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
-  
-  
 
 # 安卓
 
@@ -128,8 +124,6 @@
 
 - [ClashMeta for HarmonyOS](https://github.com/likuai2010/ClashMeta)
 
-- [Auto Installer](https://github.com/likuai2010/auto-installer)
-
 # Openwrt
 
 - [OpenClash](https://github.com/vernesong/OpenClash)
@@ -137,8 +131,6 @@
 - [Sing Box](https://github.com/SagerNet/sing-box)
 
 - [OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
-
-- [Koolshare-Clash-openwrt-amd64](https://github.com/vxiaov/Koolshare-Clash-openwrt-amd64)
 
 # 相关项目
 
@@ -169,3 +161,7 @@
 - [v2ray](https://github.com/233boy/v2ray)
 
         最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+- [Auto Installer](https://github.com/likuai2010/auto-installer)
+  
+   HarmonyOS Next Hap installer/鸿蒙调试工具
