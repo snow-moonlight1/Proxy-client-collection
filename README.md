@@ -165,3 +165,15 @@
 - [Auto Installer](https://github.com/likuai2010/auto-installer)
   
    HarmonyOS Next Hap installer/鸿蒙调试工具
+
+
+
+
+
+<a href="https://www.star-history.com/#snow-moonlight1/Proxy-client-collection&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=snow-moonlight1/Proxy-client-collection&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=snow-moonlight1/Proxy-client-collection&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=snow-moonlight1/Proxy-client-collection&type=Date" />
+ </picture>
+</a>
