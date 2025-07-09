@@ -1,24 +1,31 @@
 # 目录
 
-<!-- toc -->
+### 跨平台支持
 
-- [全平台(win/mac/lin/android)](#全平台(win/mac/lin/android))
-- [Windows](#windows)
-  - [旧时代](#旧时代)
-  - [新时代](#新时代)
-- [MacOS](#macos)
-  - [旧时代](#旧时代-1)
-  - [新时代](#新时代-1)
-- [Linux](#linux)
-  - [旧时代](#旧时代-2)
-  - [新时代](#新时代-2)
-- [安卓](#安卓)
-  - [旧时代](#旧时代-3)
-  - [新时代](#新时代-3)
-- [iOS](#ios)
-- [HarmonyOS NEXT](#harmonyos-next)
-- [Openwrt](#openwrt)
+- [全平台 (Win/Mac/Lin/Android)](#全平台winmaclinandroid)
+
+### 操作系统
+
+| 平台                      | 版本支持                          |
+| ----------------------- | ----------------------------- |
+| [**Windows**](#windows) | [旧时代](#旧时代) · [新时代](#新时代)     |
+| [**MacOS**](#macos)     | [旧时代](#旧时代-1) · [新时代](#新时代-1) |
+| [**Linux**](#linux)     | [旧时代](#旧时代-2) · [新时代](#新时代-2) |
+
+### 移动与新兴系统
+
+| 平台                                    | 版本支持                          |
+| ------------------------------------- | ----------------------------- |
+| [**安卓**](#安卓)                         | [旧时代](#旧时代-3) · [新时代](#新时代-3) |
+| [**iOS**](#ios)                       | [点此跳转](#ios)                  |
+| [**HarmonyOS NEXT**](#harmonyos-next) | [点此跳转](#harmonyos-next)       |
+| [**Openwrt**](#openwrt)               | [点此跳转](#openwrt)              |
+
+### 扩展资源
+
 - [相关项目](#相关项目)
+
+
 
 # 全平台(win/mac/lin/android)
 
@@ -31,6 +38,8 @@
 - [Hiddify](https://github.com/hiddify/hiddify-app) 
 
 - [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) 
+
+
 
 # Windows
 
@@ -58,6 +67,8 @@
 
 - [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox)
 
+
+
 # MacOS
 
 ### 旧时代
@@ -77,6 +88,8 @@
 - [sparkle(fork from Mihomo Party)](https://github.com/xishang0128/sparkle)
 
 - [v2rayN](https://github.com/2dust/v2rayN)
+
+
 
 # Linux
 
@@ -99,6 +112,8 @@
 - [v2rayN](https://github.com/2dust/v2rayN)
 
 - [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
+
+
 
 # 安卓
 
@@ -124,6 +139,8 @@
 
 - [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
+
+
 # iOS
 
 - [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
@@ -140,11 +157,15 @@
 
 - [Loon](https://apps.apple.com/us/app/loon/id1373567447)
 
+
+
 # HarmonyOS NEXT
 
 - [ClashBox](https://github.com/xiaobaigroup/ClashBox)
 
 - [ClashMeta for HarmonyOS](https://github.com/likuai2010/ClashMeta)
+
+
 
 # Openwrt
 
@@ -153,6 +174,8 @@
 - [Sing Box](https://github.com/SagerNet/sing-box)
 
 - [OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
+
+
 
 # 相关项目
 
@@ -187,6 +210,8 @@
 - [Auto Installer](https://github.com/likuai2010/auto-installer)
   
    HarmonyOS Next Hap installer/鸿蒙调试工具
+  
+  
 
 <a href="https://www.star-history.com/#snow-moonlight1/Proxy-client-collection&Date">
  <picture>
