@@ -1,3 +1,25 @@
+# 目录
+
+- [全平台(win/mac/lin/android)](#----win-mac-lin-android-)
+- [Windows](#windows)
+  + [旧时代](#---)
+  + [新时代](#---)
+- [MacOS](#macos)
+  + [旧时代](#----1)
+  + [新时代](#----1)
+- [Linux](#linux)
+  + [旧时代](#----2)
+  + [新时代](#----2)
+- [安卓](#--)
+  + [旧时代](#----3)
+  + [新时代](#----3)
+- [iOS](#ios)
+- [HarmonyOS NEXT](#harmonyos-next)
+- [Openwrt](#openwrt)
+- [相关项目](#----)
+  
+  
+
 # 全平台(win/mac/lin/android)
 
 如果想获得全平台相对一致的体验可以尝试这些项目
@@ -165,10 +187,6 @@
 - [Auto Installer](https://github.com/likuai2010/auto-installer)
   
    HarmonyOS Next Hap installer/鸿蒙调试工具
-
-
-
-
 
 <a href="https://www.star-history.com/#snow-moonlight1/Proxy-client-collection&Date">
  <picture>
