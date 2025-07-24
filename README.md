@@ -39,7 +39,7 @@
 
 - [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) 
 
-
+- [Vproxy](https://github.com/5VNetwork/vproxy)
 
 # Windows
 
@@ -157,7 +157,7 @@
 
 - [Loon](https://apps.apple.com/us/app/loon/id1373567447)
 
-
+- [Vproxy](https://apps.apple.com/us/app/vproxy/id6744701950?platform=iphone)
 
 # HarmonyOS NEXT
 
