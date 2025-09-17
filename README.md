@@ -89,6 +89,8 @@
 
 - [v2rayN](https://github.com/2dust/v2rayN)
 
+- [clashmi](https://github.com/KaringX/clashmi)
+
 
 
 # Linux
@@ -112,6 +114,8 @@
 - [v2rayN](https://github.com/2dust/v2rayN)
 
 - [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
+
+- [clashmi](https://github.com/KaringX/clashmi)
 
 
 
@@ -156,6 +160,8 @@
 - [Potatso Lite](https://apps.apple.com/us/app/potatso/id1239860606)
 
 - [Loon](https://apps.apple.com/us/app/loon/id1373567447)
+
+- [clashmi](https://github.com/KaringX/clashmi)
 
 
 
