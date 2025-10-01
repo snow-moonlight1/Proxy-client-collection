@@ -25,8 +25,6 @@
 
 - [相关项目](#相关项目)
 
-
-
 # 全平台(win/mac/lin/android)
 
 如果想获得全平台相对一致的体验可以尝试这些项目
@@ -38,8 +36,6 @@
 - [Hiddify](https://github.com/hiddify/hiddify-app) 
 
 - [clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) 
-
-
 
 # Windows
 
@@ -67,8 +63,6 @@
 
 - [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox)
 
-
-
 # MacOS
 
 ### 旧时代
@@ -89,15 +83,13 @@
 
 - [v2rayN](https://github.com/2dust/v2rayN)
 
-
-
 # Linux
 
 ### 旧时代
 
 - [clash-for-linux](https://github.com/Elegycloud/clash-for-linux-backup)
 
-- [clash_for_windows_pkg(对的cfw有linux版本)](https://github.com/lantongxue/clash_for_windows_pkg)
+- [clash_for_windows_pkg](https://github.com/lantongxue/clash_for_windows_pkg)
 
 ### 新时代
 
@@ -112,8 +104,6 @@
 - [v2rayN](https://github.com/2dust/v2rayN)
 
 - [clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)
-
-
 
 # 安卓
 
@@ -139,8 +129,6 @@
 
 - [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
-
-
 # iOS
 
 - [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
@@ -151,21 +139,19 @@
 
 - [V2Box - V2ray Client](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
 
+- [clashmi](https://apps.apple.com/us/app/clash-mi/id6744321968)
+
 - [Surge 5](https://apps.apple.com/us/app/surge-5/id1442620678)
 
 - [Potatso Lite](https://apps.apple.com/us/app/potatso/id1239860606)
 
 - [Loon](https://apps.apple.com/us/app/loon/id1373567447)
 
-
-
 # HarmonyOS NEXT
 
 - [ClashBox](https://github.com/xiaobaigroup/ClashBox)
 
 - [ClashMeta for HarmonyOS](https://github.com/likuai2010/ClashMeta)
-
-
 
 # Openwrt
 
@@ -174,8 +160,6 @@
 - [Sing Box](https://github.com/SagerNet/sing-box)
 
 - [OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
-
-
 
 # 相关项目
 
@@ -210,8 +194,6 @@
 - [Auto Installer](https://github.com/likuai2010/auto-installer)
   
    HarmonyOS Next Hap installer/鸿蒙调试工具
-  
-  
 
 <a href="https://www.star-history.com/#snow-moonlight1/Proxy-client-collection&Date">
  <picture>
