@@ -1,16 +1,20 @@
-# Proxy Client Collection | 代理客户端合集
+# Proxy Client Collection
 
 [English Version](./README_en.md) | [中文说明](./README.md)
 
-## 客户端一览 | Client Master List
+This is a curated collection of proxy clients, providing clear, professional, and practical technical reference solutions for terminal users across various platforms.
 
-> **说明 (Note):**
+---
+
+## Client Master List
+
+> **Note:**
 > 
-> * `✓` : 表示支持该平台 (Supported)
-> * `-` : 表示不支持或未提及 (Not supported / Not mentioned)
-> * **Download**: 点击链接跳转下载页面 (Click to download)
+> * `✓` : Supported platform
+> * `-` : Not supported or not mentioned
+> * **Download**: Click links to go to download pages
 
-| 客户端 (Client)                                                                     | Win    | Mac                                  | Linux  | Android | iOS(App store)                                                    | 下载 (Download)                                                                  |
+| Client                                                                           | Win    | Mac                                  | Linux  | Android | iOS(App store)                                                    | Download                                                                       |
 |:-------------------------------------------------------------------------------- |:------:|:------------------------------------:|:------:|:-------:|:-----------------------------------------------------------------:|:------------------------------------------------------------------------------ |
 | **[Cloudflare WARP](https://one.one.one.one/)**                                  | ✓      | ✓                                    | ✓      | ✓       | ✓                                                                 | [Download](https://one.one.one.one/)                                           |
 | **[Hiddify](https://github.com/hiddify/hiddify-app)**                            | ✓      | ✓                                    | ✓      | ✓       | [✓](https://apps.apple.com/ly/app/hiddify-proxy-vpn/id6596777532) | [Download](https://github.com/hiddify/hiddify-app/releases)                    |
@@ -38,9 +42,9 @@
 | **[Loon](https://apps.apple.com/us/app/loon/id1373567447)**                      | -      | -                                    | -      | -       | ✓                                                                 | [App Store](https://apps.apple.com/us/app/loon/id1373567447)                   |
 | **[Potatso Lite](https://apps.apple.com/us/app/potatso/id1239860606)**           | -      | -                                    | -      | -       | ✓                                                                 | [App Store](https://apps.apple.com/us/app/potatso/id1239860606)                |
 
-### 旧时代 / 备份 (Legacy/Backup)
+### Legacy / Backup
 
-| 客户端 (Client)                                                                 | Win | Mac | Linux | Android | iOS | Harmony | DashBoard | 下载 (Download)                                                                      |
+| Client                                                                       | Win | Mac | Linux | Android | iOS | Harmony | DashBoard | Download                                                                           |
 |:---------------------------------------------------------------------------- |:---:|:---:|:-----:|:-------:|:---:|:-------:|:---------:|:---------------------------------------------------------------------------------- |
 | **[Clash for Windows](https://github.com/lantongxue/clash_for_windows_pkg)** | ✓   | ✓   | ✓     | -       | -   | -       | -         | [Backup](https://github.com/lantongxue/clash_for_windows_pkg/releases/tag/0.20.39) |
 | **[Clash N](https://github.com/2dust/clashN)**                               | ✓   | -   | -     | -       | -   | -       | -         | [Download](https://github.com/2dust/clashN/releases)                               |
@@ -52,45 +56,38 @@
 
 ---
 
-## HarmonyOS / 鸿蒙
+## HarmonyOS
 
-* **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** - 适配 HarmonyOS NEXT
+* **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** - Optimized for HarmonyOS NEXT
 * **[ClashMeta for HarmonyOS](https://github.com/likuai2010/ClashMeta)**
-* **[Auto Installer](https://github.com/likuai2010/auto-installer)** - 鸿蒙调试工具
+* **[Auto Installer](https://github.com/likuai2010/auto-installer)** - Debugging tool for HarmonyOS
 
-## Router / 路由器
+## Router
 
-- **[OpenClash](https://github.com/vernesong/OpenClash)** - OpenWrt 用户最常用的插件
-
+- **[OpenClash](https://github.com/vernesong/OpenClash)** - Most popular plugin for OpenWrt users
 - **[openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2)**
-
 - **[lucky](https://github.com/gdy666/lucky)**
 * **[Sing Box](https://github.com/SagerNet/sing-box)**
-
 * **[OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)**
+* **[vClash](https://github.com/vxiaov/vClash)** - Plugin for Merlin / Official modified firmware
 
-* **[vClash](https://github.com/vxiaov/vClash)** - 梅林/官方改版固件插件
-
-## Dashboard / 控制面板
+## Dashboard
 
 - **[metacubexd](https://github.com/MetaCubeX/metacubexd)**
-
 - **[Yacd-meta](https://github.com/MetaCubeX/Yacd-meta)**
-
 - **[s-ui](https://github.com/alireza0/s-ui)**
-
 - **[v2rayA](https://github.com/v2rayA/v2rayA)**
 
-## 相关工具与项目 (Related Projects)
+## Related Projects
 
-* **[mihomo](https://github.com/MetaCubeX/mihomo)** - 核心组件，新一代 Clash 核心
-* **[WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)** - 订阅方式使用 Cloudflare WARP+，自动获取流量
-* **[ClashForge](https://github.com/fish2018/ClashForge)** - 节点采集与订阅生成 (Docker/WebUI）
-* **[clash2singbox](https://github.com/xmdhs/clash2singbox)** - 配置转换工具
-* **[subconverter](https://github.com/tindy2013/subconverter)** - 强大的万能订阅转换
-* **[v2ray-install](https://github.com/233boy/v2ray)** - 一键安装与管理脚本
-* **[openwrt-packages](https://github.com/kenzok8/openwrt-packages)** - 软路由软件包集合
+* **[mihomo](https://github.com/MetaCubeX/mihomo)** - Core component, the new generation Clash core
+* **[WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)** - Use Cloudflare WARP+ via subscription, automatic traffic acquisition
+* **[ClashForge](https://github.com/fish2018/ClashForge)** - Node collection and subscription generation (Docker/WebUI)
+* **[clash2singbox](https://github.com/xmdhs/clash2singbox)** - Config conversion tool
+* **[subconverter](https://github.com/tindy2013/subconverter)** - Universal subscription converter
+* **[v2ray-install](https://github.com/233boy/v2ray)** - One-click installation and management script
+* **[openwrt-packages](https://github.com/kenzok8/openwrt-packages)** - Software package collection for soft routers
 
 ---
 
-**免责声明 (Disclaimer):** 本项目仅作为网络技术交流与研究参考。严禁将相关软件及技术用于任何非法用途。用户使用本项目内提及的所有工具而产生的一切后果由用户本人承担。
+**Disclaimer:** This project is for technical exchange and research purposes only. It is strictly prohibited to use the relevant software and technology for any illegal purposes. Users are solely responsible for any consequences arising from the use of all tools mentioned in this project.
