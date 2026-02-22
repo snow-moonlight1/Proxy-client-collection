@@ -16,10 +16,10 @@ This is a curated collection of proxy clients, providing clear, professional, an
 
 | Client                                                                           | Win    | Mac                                  | Linux  | Android | iOS(App store)                                                    | Download                                                                       |
 |:-------------------------------------------------------------------------------- |:------:|:------------------------------------:|:------:|:-------:|:-----------------------------------------------------------------:|:------------------------------------------------------------------------------ |
+| **[Clashmi](https://github.com/KaringX/clashmi)**                                | ✓      | ✓                                    | ✓      | ✓       | [✓](https://apps.apple.com/ly/app/clash-mi/id6744321968)          | [Download](https://github.com/KaringX/clashmi/releases)                        |
 | **[Cloudflare WARP](https://one.one.one.one/)**                                  | ✓      | ✓                                    | ✓      | ✓       | ✓                                                                 | [Download](https://one.one.one.one/)                                           |
 | **[Hiddify](https://github.com/hiddify/hiddify-app)**                            | ✓      | ✓                                    | ✓      | ✓       | [✓](https://apps.apple.com/ly/app/hiddify-proxy-vpn/id6596777532) | [Download](https://github.com/hiddify/hiddify-app/releases)                    |
 | **[karing](https://github.com/KaringX/karing)**                                  | ✓      | ✓                                    | ✓      | ✓       | [✓](https://apps.apple.com/ly/app/karing/id6472431552)            | [Download](https://github.com/KaringX/karing/releases)                         |
-| **[clashmi](https://github.com/KaringX/clashmi)**                                | ✓      | ✓                                    | ✓      | ✓       | [✓](https://apps.apple.com/ly/app/clash-mi/id6744321968)          | [Download](https://github.com/KaringX/clashmi/releases)                        |
 | **[sing-box](https://github.com/SagerNet/sing-box)**                             | ✓(CLI) | ✓                                    | ✓(CLI) | ✓       | [✓](https://apps.apple.com/ly/app/sing-box-vt/id6673731168)       | [Download](https://github.com/SagerNet/sing-box/releases)                      |
 | **[GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox)**          | ✓      | -                                    | ✓      | -       | -                                                                 | [Download](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases)          |
 | **[FlClash](https://github.com/chen08209/FlClash)**                              | ✓      | ✓                                    | ✓      | ✓       | -                                                                 | [Download](https://github.com/chen08209/FlClash/releases)                      |
@@ -58,6 +58,7 @@ This is a curated collection of proxy clients, providing clear, professional, an
 
 ## HarmonyOS
 
+- **Clashmi** - Huawei AppGallery
 * **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** - Optimized for HarmonyOS NEXT
 * **[ClashMeta for HarmonyOS](https://github.com/likuai2010/ClashMeta)**
 * **[Auto Installer](https://github.com/likuai2010/auto-installer)** - Debugging tool for HarmonyOS
