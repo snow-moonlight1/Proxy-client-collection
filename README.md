@@ -60,6 +60,24 @@
 * **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** - 适配 HarmonyOS NEXT
 * **[Auto Installer](https://github.com/likuai2010/auto-installer)** - 鸿蒙调试工具
 
+## TV / 电视端 (Apple TV & Android TV)
+
+主流代理生态中专门针对电视大屏与遥控器交互适配的客户端：
+
+### Apple TV (tvOS)
+* **[Surge for tvOS](https://nssurge.com/)** - 苹果生态标杆，支持原生独立运行或接管局域网作为旁路网关
+* **[Stash for tvOS](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)** - 基于 Clash 规则分流，原生支持 tvOS 遥控操作与网关模式
+* **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)** - 老牌代理小火箭，完整支持 tvOS 原生应用
+* **[Loon for tvOS](https://apps.apple.com/us/app/loon/id1373567447)** - 强大的分流与脚本插件生态，支持 Apple TV 原生客户端
+* **[sing-box](https://sing-box.sagernet.org/zh/clients/apple/)** - 官方通用应用，支持 iOS / iPadOS / macOS / tvOS
+* **[karing](https://github.com/KaringX/karing)** - 跨平台客户端，支持 Apple TV (tvOS) 免费使用
+
+### Android TV / 电视盒子
+* **[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)** - 内置针对电视遥控器优化的 TV UI 模式（DPAD 键位导航友好）
+* **[FlClash](https://github.com/chen08209/FlClash)** - 针对 Android TV 大屏与遥控器交互深度定制的多核心 Clash 客户端
+* **[Hiddify](https://github.com/hiddify/hiddify-app)** - 自适应 Android TV 大屏与遥控器交互模式
+* **[sing-box](https://github.com/SagerNet/sing-box)** - 官方 Android 端 APK（SFA）可直接在电视盒子上部署运行
+
 ## Router / 路由器
 
 - **[OpenClash](https://github.com/vernesong/OpenClash)** - OpenWrt 用户最常用的插件
