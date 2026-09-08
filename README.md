@@ -16,12 +16,13 @@
 | **[Cloudflare WARP](https://one.one.one.one/)**                                  | ✓      | ✓                                    | ✓      | ✓       | ✓                                                                 | [Download](https://one.one.one.one/)                                           |
 | **[Hiddify](https://github.com/hiddify/hiddify-app)**                            | ✓      | ✓                                    | ✓      | ✓       | [✓](https://apps.apple.com/ly/app/hiddify-proxy-vpn/id6596777532) | [Download](https://github.com/hiddify/hiddify-app/releases)                    |
 | **[karing](https://github.com/KaringX/karing)**                                  | ✓      | ✓                                    | ✓      | ✓       | [✓](https://apps.apple.com/ly/app/karing/id6472431552)            | [Download](https://github.com/KaringX/karing/releases)                         |
-| **[sing-box](https://github.com/SagerNet/sing-box)**                             | ✓(CLI) | ✓                                    | ✓(CLI) | ✓       | [✓](https://apps.apple.com/ly/app/sing-box-vt/id6673731168)       | [Download](https://github.com/SagerNet/sing-box/releases)                      |
+| **[sing-box](https://github.com/SagerNet/sing-box)**                             | ✓(CLI) | ✓                                    | ✓(CLI) | ✓       | [✓](https://sing-box.sagernet.org/zh/clients/apple/)              | [Download](https://github.com/SagerNet/sing-box/releases)                      |
 | **[GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox)**          | ✓      | -                                    | ✓      | -       | -                                                                 | [Download](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases)          |
+| **[GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)**              | ✓      | -                                    | ✓      | -       | -                                                                 | [Download](https://github.com/GUI-for-Cores/GUI.for.Clash/releases)            |
 | **[FlClash](https://github.com/chen08209/FlClash)**                              | ✓      | ✓                                    | ✓      | ✓       | -                                                                 | [Download](https://github.com/chen08209/FlClash/releases)                      |
-| **[clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter)**          | ✓      | ✓                                    | ✓      | ✓       | -                                                                 | [Download](https://github.com/mapleafgo/clash-for-flutter/releases)            |
+| **[singcast](https://github.com/mapleafgo/singcast)**                            | ✓      | ✓                                    | ✓      | ✓       | -                                                                 | [Download](https://github.com/mapleafgo/singcast/releases)                     |
 | **[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev)**        | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/clash-verge-rev/clash-verge-rev/releases)        |
-| **[Mihomo Party](https://github.com/mihomo-party-org/mihomo-party)**             | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/mihomo-party-org/mihomo-party/releases)          |
+| **[Clash Party](https://github.com/mihomo-party-org/clash-party)**               | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/mihomo-party-org/clash-party/releases)           |
 | **[Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)**              | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/libnyanpasu/clash-nyanpasu/releases)             |
 | **[sparkle](https://github.com/xishang0128/sparkle)**                            | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/xishang0128/sparkle/releases)                    |
 | **[v2rayN](https://github.com/2dust/v2rayN)**                                    | ✓      | ✓                                    | ✓      | -       | -                                                                 | [Download](https://github.com/2dust/v2rayN/releases)                           |
@@ -49,6 +50,7 @@
 | **[SagerNet](https://github.com/SagerNet/SagerNet)**                         | -   | -   | -     | ✓       | -   | -       | -         | [Archived](https://github.com/SagerNet/SagerNet/releases/tag/0.8.1-rc03)           |
 | **[ClashMeta for HarmonyOS](https://github.com/likuai2010/ClashMeta)**       | -   | -   | -     | -       | -   | ✓       | -         | [Download](https://github.com/likuai2010/ClashMeta/releases/tag/1.5.6)             |
 | **[yacd](https://github.com/haishanh/yacd)**                                 | -   | -   | -     | -       | -   | -       | ✓         | [Download](https://github.com/haishanh/yacd/releases/tag/v0.3.8)                   |
+| **[Yacd-meta](https://github.com/MetaCubeX/Yacd-meta)**                      | -   | -   | -     | -       | -   | -       | ✓         | [Download](https://github.com/MetaCubeX/Yacd-meta/releases)                        |
 
 ---
 
@@ -56,7 +58,6 @@
 
 - **clashmi** - 应用市场搜索
 * **[ClashBox](https://github.com/xiaobaigroup/ClashBox)** - 适配 HarmonyOS NEXT
-* **[ClashMeta for HarmonyOS](https://github.com/likuai2010/ClashMeta)**
 * **[Auto Installer](https://github.com/likuai2010/auto-installer)** - 鸿蒙调试工具
 
 ## Router / 路由器
@@ -66,9 +67,13 @@
 - **[openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2)**
 
 - **[lucky](https://github.com/gdy666/lucky)**
+* **[ShellCrash](https://github.com/juewuy/ShellCrash)** - 终端 Shell 环境运行 sing-box/mihomo
+
 * **[Sing Box](https://github.com/SagerNet/sing-box)**
 
 * **[OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)**
+
+* **[dae](https://github.com/daeuniverse/dae)** - 基于 eBPF 的高性能透明代理
 
 * **[vClash](https://github.com/vxiaov/vClash)** - 梅林/官方改版固件插件
 
@@ -76,7 +81,7 @@
 
 - **[metacubexd](https://github.com/MetaCubeX/metacubexd)**
 
-- **[Yacd-meta](https://github.com/MetaCubeX/Yacd-meta)**
+- **[sing-box-dashboard](https://github.com/SagerNet/sing-box-dashboard)**
 
 - **[s-ui](https://github.com/alireza0/s-ui)**
 
@@ -85,7 +90,8 @@
 ## 相关工具与项目 (Related Projects)
 
 * **[mihomo](https://github.com/MetaCubeX/mihomo)** - 核心组件，新一代 Clash 核心
-* **[WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)** - 订阅方式使用 Cloudflare WARP+，自动获取流量
+* **[Sub-Store](https://github.com/sub-store-org/Sub-Store)** - 高级订阅管理工具，支持全格式订阅动态转换、去重与规则注入
+* **[warp](https://github.com/fscarmen/warp)** - 功能全面的 Cloudflare WARP 一键脚本
 * **[ClashForge](https://github.com/fish2018/ClashForge)** - 节点采集与订阅生成 (Docker/WebUI）
 * **[clash2singbox](https://github.com/xmdhs/clash2singbox)** - 配置转换工具
 * **[subconverter](https://github.com/tindy2013/subconverter)** - 强大的万能订阅转换
