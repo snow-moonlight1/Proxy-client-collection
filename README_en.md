@@ -69,18 +69,19 @@ This is a curated collection of proxy clients, providing clear, professional, an
 Curated proxy clients tailored for TV platforms, supporting remote controls and large screen displays:
 
 ### Apple TV (tvOS)
-* **[Surge for tvOS](https://nssurge.com/)** - Benchmark in Apple ecosystem; supports standalone proxy and LAN gateway mode
-* **[Stash for tvOS](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)** - Clash-rule-based client; supports Apple TV remote control and gateway mode
-* **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)** - Classic proxy client with native tvOS support
-* **[Loon for tvOS](https://apps.apple.com/us/app/loon/id1373567447)** - Powerful rule routing and plugin system with native Apple TV support
-* **[sing-box](https://sing-box.sagernet.org/clients/apple/)** - Official universal app supporting iOS, iPadOS, macOS, and tvOS
-* **[karing](https://github.com/KaringX/karing)** - Cross-platform client supporting tvOS
+* **[Surge for tvOS](https://apps.apple.com/us/app/surge-5/id1442620678?platform=tv)** ([Official Website](https://nssurge.com/)) - Benchmark in Apple ecosystem; supports standalone proxy and LAN gateway mode
+* **[Stash for tvOS](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?platform=tv)** - Clash-rule-based client; supports Apple TV remote control and gateway mode
+* **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118?platform=tv)** - Classic proxy client with native tvOS support
+* **[Loon for tvOS](https://apps.apple.com/us/app/loon/id1373567447?platform=tv)** - Powerful rule routing and plugin system with native Apple TV support
+* **[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620?platform=tv)** - Classic rule-based proxy tool with native tvOS support
+* **[sing-box](https://apps.apple.com/us/app/sing-box-mt/id6785326793?platform=tv)** ([Docs](https://sing-box.sagernet.org/clients/apple/)) - Official universal app supporting iOS, iPadOS, macOS, and tvOS
+* **[karing](https://apps.apple.com/us/app/karing/id6472431552?platform=tv)** ([GitHub](https://github.com/KaringX/karing)) - Cross-platform client supporting tvOS
 
 ### Android TV / TV Box
-* **[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)** - Built-in TV UI mode optimized for remote controller (DPAD navigation)
-* **[FlClash](https://github.com/chen08209/FlClash)** - Tailored Clash client featuring deep adaptation for Android TV remote controls and large screens
-* **[Hiddify](https://github.com/hiddify/hiddify-app)** - Adaptive UI supporting Android TV large screens and remote control
-* **[sing-box](https://github.com/SagerNet/sing-box)** - Official Android APK (SFA) can be deployed directly on TV boxes
+* **[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)** ([Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)) - Built-in TV UI mode optimized for remote controller (DPAD navigation)
+* **[FlClash](https://github.com/chen08209/FlClash)** ([Releases](https://github.com/chen08209/FlClash/releases)) - Tailored Clash client featuring deep adaptation for Android TV remote controls and large screens
+* **[Hiddify](https://github.com/hiddify/hiddify-app)** ([Releases](https://github.com/hiddify/hiddify-app/releases)) - Adaptive UI supporting Android TV large screens and remote control
+* **[sing-box](https://github.com/SagerNet/sing-box)** ([Releases](https://github.com/SagerNet/sing-box/releases)) - Official Android APK (SFA) can be deployed directly on TV boxes
 
 ## Router
 
